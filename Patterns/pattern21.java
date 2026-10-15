@@ -1,6 +1,6 @@
 package Patterns;
 
-public class pattern23 {
+public class pattern21 {
     public static void main(String[] args) {
         int n=5;
         for (int i = 1; i <=5 ; i++) {

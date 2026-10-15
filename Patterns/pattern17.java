@@ -1,6 +1,6 @@
 package Patterns;
 
-public class pattern19 {
+public class pattern17 {
     public static void main(String[] args) {
         System.out.println("\nWelcome to my program\n");
         for (int i = 5; i >1; i--) {
